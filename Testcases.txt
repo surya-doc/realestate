@@ -1,0 +1,32 @@
+test case 1:
+location: New York, NY
+date: 06/07/2022
+rent: 1000-8000
+type: Apartment
+
+result: [Apartment 7, Apartment 20]
+
+test case 2:
+location: New York, NY
+date: 06/07/2022
+rent: 1000-6000
+type: House
+
+result: [House 7]
+
+test case 3:
+location: Houston, TX
+date: 12/31/2022
+rent: 1000-6000
+type: Apartment
+
+result: [Apartment 4]
+
+
+test case 4:
+location: Los Angeles, CA
+date: 05/10/2022
+rent: 1000-9000
+type: House
+
+result: [House 8, House 14]
