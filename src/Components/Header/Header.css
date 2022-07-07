@@ -1,0 +1,14 @@
+.header{
+    background-color: #f8f7fd;
+}
+
+.ele{
+    padding: 6px 14px;
+    border-radius: 6px;
+}
+
+.ele:hover {
+  background-color: #e9e7fc;
+  color: #7066ef;
+  cursor: pointer;
+}
